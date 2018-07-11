@@ -1,0 +1,5 @@
+#Routing Composer rules
+*.composer
+*.dummy
+*.project
+*.settings
